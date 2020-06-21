@@ -1,2 +1,2 @@
 # animation_test
-test animation
+Simple animaton with gsap 
